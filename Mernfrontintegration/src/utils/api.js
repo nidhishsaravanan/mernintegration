@@ -1,4 +1,4 @@
-export const API = "http://localhost:5000"
+export const API = "https://mernintegration-34np.onrender.com";
 export const products = [
   {
     _id: "1",
